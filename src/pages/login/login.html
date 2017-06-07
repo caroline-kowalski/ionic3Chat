@@ -1,0 +1,29 @@
+<ion-content class="no-scroll">
+  <div class="top">
+    <ion-icon name="md-heart" style="color:#ff5757;font-size:60px"></ion-icon>
+  </div>
+  <ion-list inset>
+    <form [formGroup]="emailPasswordForm">
+    <ion-item no-lines>
+        <ion-label stacked>EMAIL</ion-label>
+        <ion-input type="text" formControlName="email"></ion-input>
+      </ion-item>
+      <ion-item no-lines>
+        <ion-note><button item-right ion-button color="gray" clear tappable (click)="forgotPassword()">RESET</button></ion-note>
+        <ion-label stacked>PASSWORD</ion-label>
+        <ion-input type="password" formControlName="password"></ion-input>
+      </ion-item>
+      <ion-row>
+        <ion-col>
+          <button ion-button color="primary" block tappable (click)="login()" [disabled]="!emailPasswordForm.valid">Log in</button>
+        </ion-col>
+        <ion-col>
+          <button ion-button color="dark" block tappable (click)="register()" [disabled]="!emailPasswordForm.valid">Signup</button>
+        </ion-col>
+      </ion-row>
+      </form>
+      <p style="text-align: center;font-size:10px;color:#444">--- OR CONTINUE WITH ---</p>
+      <button ion-button block icon-left color="facebook" tappable (click)="loginProvider.facebookLogin()"><ion-icon name="logo-facebook"></ion-icon> Facebook</button>
+      <button ion-button block icon-left color="google" tappable (click)="loginProvider.googleLogin()"><ion-icon name="logo-google"></ion-icon> Google+</button>
+  </ion-list>
+</ion-content>

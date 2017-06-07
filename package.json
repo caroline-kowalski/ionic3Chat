@@ -1,0 +1,103 @@
+{
+    "name": "ionic3chat",
+    "version": "0.0.1",
+    "author": "Ionic Framework",
+    "homepage": "http://ionicframework.com/",
+    "private": true,
+    "scripts": {
+        "clean": "ionic-app-scripts clean",
+        "build": "ionic-app-scripts build",
+        "lint": "ionic-app-scripts lint",
+        "ionic:build": "ionic-app-scripts build",
+        "ionic:serve": "ionic-app-scripts serve"
+    },
+    "dependencies": {
+        "@angular/common": "4.1.0",
+        "@angular/compiler": "4.1.0",
+        "@angular/compiler-cli": "4.1.0",
+        "@angular/core": "4.1.0",
+        "@angular/forms": "4.1.0",
+        "@angular/http": "4.1.0",
+        "@angular/platform-browser": "4.1.0",
+        "@angular/platform-browser-dynamic": "4.1.0",
+        "@ionic-native/camera": "^3.9.2",
+        "@ionic-native/contacts": "^3.9.2",
+        "@ionic-native/core": "3.7.0",
+        "@ionic-native/file": "^3.9.2",
+        "@ionic-native/firebase": "^3.9.2",
+        "@ionic-native/geolocation": "^3.9.2",
+        "@ionic-native/google-plus": "^3.9.2",
+        "@ionic-native/keyboard": "^3.9.2",
+        "@ionic-native/media-capture": "^3.9.2",
+        "@ionic-native/splash-screen": "3.7.0",
+        "@ionic-native/status-bar": "3.7.0",
+        "@ionic/storage": "2.0.1",
+        "angularfire2": "^4.0.0-rc0",
+        "cordova-android": "^6.2.3",
+        "cordova-ios": "^4.4.0",
+        "cordova-plugin-camera": "^2.4.1",
+        "cordova-plugin-compat": "^1.1.0",
+        "cordova-plugin-console": "^1.0.5",
+        "cordova-plugin-contacts": "^2.3.1",
+        "cordova-plugin-crosswalk-webview": "^2.3.0",
+        "cordova-plugin-device": "^1.1.4",
+        "cordova-plugin-file": "^4.3.3",
+        "cordova-plugin-firebase": "^0.1.20",
+        "cordova-plugin-geolocation": "^2.4.3",
+        "cordova-plugin-googleplus": "^5.1.1",
+        "cordova-plugin-media-capture": "^1.4.3",
+        "cordova-plugin-splashscreen": "^4.0.3",
+        "cordova-plugin-statusbar": "^2.2.2",
+        "cordova-plugin-whitelist": "^1.3.1",
+        "firebase": "^3.9.0",
+        "install": "^0.10.1",
+        "ionic-angular": "3.2.1",
+        "ionic-plugin-keyboard": "^2.2.1",
+        "ionicons": "3.0.0",
+        "moment": "^2.18.1",
+        "ng2-cordova-oauth": "0.0.8",
+        "npm": "^5.0.1",
+        "or": "^0.2.0",
+        "promise-file-reader": "^0.3.1",
+        "rxjs": "5.1.1",
+        "sw-toolbox": "3.6.0",
+        "zone.js": "0.8.10"
+    },
+    "devDependencies": {
+        "@ionic/app-scripts": "^1.3.7",
+        "@ionic/cli-plugin-cordova": "1.3.0",
+        "@ionic/cli-plugin-ionic-angular": "1.1.2",
+        "typescript": "2.2.1"
+    },
+    "description": "An Ionic project",
+    "cordova": {
+        "plugins": {
+            "cordova-plugin-camera": {},
+            "cordova-plugin-console": {},
+            "cordova-plugin-device": {},
+            "cordova-plugin-splashscreen": {},
+            "cordova-plugin-statusbar": {},
+            "cordova-plugin-whitelist": {},
+            "ionic-plugin-keyboard": {},
+            "cordova-plugin-googleplus": {
+                "REVERSED_CLIENT_ID": "com.googleusercontent.apps.478860799652-526uf84nsn4jfjg0l2trbivm1676ohgb"
+            },
+            "cordova-plugin-contacts": {},
+            "cordova-plugin-media-capture": {},
+            "cordova-plugin-file": {},
+            "cordova-plugin-geolocation": {},
+            "cordova-plugin-firebase": {},
+            "cordova-plugin-crosswalk-webview": {
+                "XWALK_VERSION": "23+",
+                "XWALK_LITEVERSION": "xwalk_core_library_canary:17+",
+                "XWALK_COMMANDLINE": "--disable-pull-to-refresh-effect",
+                "XWALK_MODE": "embedded",
+                "XWALK_MULTIPLEAPK": "true"
+            }
+        },
+        "platforms": [
+            "android",
+            "ios"
+        ]
+    }
+}

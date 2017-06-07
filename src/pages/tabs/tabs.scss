@@ -1,0 +1,27 @@
+page-tabs {
+  .tabs-ios{
+    border:none;
+  }
+  .tabs-ios .tab-button[aria-selected=true],
+  .tabs-md .tab-button[aria-selected=true],
+  .tabs-wp .tab-button[aria-selected=true],{
+    background: $primary;
+    color:#fff;
+    border-bottom: 2px solid #fff;
+  }
+  .tabs-ios .tab-button[aria-selected=true] .tab-button-icon{
+    color:#fff;
+  }
+  .tabs-ios .tab-button,
+  .tabs-md .tab-button,
+  .tabs-wp .tab-button {
+    background: $primary;
+    color:#fff;
+    border-bottom:none;
+  }
+  .tabs-ios .tab-button-icon{
+    color:#fff
+  }
+  
+}
+

@@ -1,0 +1,29 @@
+page-verification {
+  ion-content{
+    padding-top: 20vh;
+    background: url('../../assets/images/background.jpg');
+  }
+  .page{
+    margin-top: 30vh;
+  }
+  h4,
+  p {
+    text-align: center;
+  }
+
+  h4 {
+    color: $primary;
+  }
+
+  p {
+    color: $gray;
+  }
+
+  p span {
+    color: $primary;
+  }
+  ion-icon{
+    color: $primary;
+    font-size: 2.5em;
+  }
+}

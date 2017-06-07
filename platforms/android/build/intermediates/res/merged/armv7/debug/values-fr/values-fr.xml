@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="accessibility_date_picker_month">"Mois"</string>
+    <string name="accessibility_date_picker_week">"Semaine"</string>
+    <string name="accessibility_date_picker_year">"Année"</string>
+    <string name="accessibility_datetime_picker_date">"Date"</string>
+    <string name="accessibility_datetime_picker_time">"Heure"</string>
+    <string name="accessibility_time_picker_ampm">"AM/PM"</string>
+    <string name="accessibility_time_picker_hour">"Heure"</string>
+    <string name="accessibility_time_picker_milli">"Milliseconde"</string>
+    <string name="accessibility_time_picker_minute">"Minute"</string>
+    <string name="accessibility_time_picker_second">"Seconde"</string>
+    <string name="actionbar_share">"Partager"</string>
+    <string name="actionbar_textselection_title">"Sélection de texte"</string>
+    <string name="actionbar_web_search">"Recherche sur le Web"</string>
+    <string name="autofill_keyboard_accessory_content_description">"Suggestions disponibles"</string>
+    <string name="autofill_popup_content_description">"Affichage de la fenêtre contextuelle de saisie automatique"</string>
+    <string name="color_picker_button_black">"Noir"</string>
+    <string name="color_picker_button_blue">"Bleu"</string>
+    <string name="color_picker_button_cancel">"Annuler"</string>
+    <string name="color_picker_button_cyan">"Cyan"</string>
+    <string name="color_picker_button_green">"Vert"</string>
+    <string name="color_picker_button_magenta">"Magenta"</string>
+    <string name="color_picker_button_more">"Plus"</string>
+    <string name="color_picker_button_red">"Rouge"</string>
+    <string name="color_picker_button_set">"Définir"</string>
+    <string name="color_picker_button_white">"Blanc"</string>
+    <string name="color_picker_button_yellow">"Jaune"</string>
+    <string name="color_picker_dialog_title">"Sélectionner couleur"</string>
+    <string name="color_picker_hue">"Teinte"</string>
+    <string name="color_picker_saturation">"Saturation"</string>
+    <string name="color_picker_value">"Valeur"</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Activer"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ne fonctionnera pas tant que vous n\'aurez pas activé les services Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Activer les services Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Installer"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ne fonctionnera pas sans les services Google Play, qui ne sont pas installés sur votre appareil."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Installer les services Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Erreur liée aux services Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"L\'application <ns1:g id="APP_NAME">%1$s</ns1:g> rencontre des problèmes avec les services Google Play. Veuillez réessayer."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ne fonctionnera pas sans les services Google Play, qui ne sont pas compatibles avec votre appareil."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Mettre à jour"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ne fonctionnera pas tant que vous n\'aurez pas mis à jour les services Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Mettre à jour les services Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ne fonctionnera pas sans les services Google Play, qui sont en cours de mise à jour."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"La nouvelle version des services Google Play est nécessaire. Elle sera bientôt installée automatiquement."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Ouvrir sur le téléphone"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Se connecter"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Se connecter avec Google"</string>
+    <string name="copy_to_clipboard_failure_message">"Échec de la copie du contenu dans le Presse-papiers."</string>
+    <string name="date_picker_dialog_clear">"Effacer"</string>
+    <string name="date_picker_dialog_other_button_label">"Autre"</string>
+    <string name="date_picker_dialog_set">"Définir"</string>
+    <string name="date_picker_dialog_title">"Définir la date"</string>
+    <string name="date_time_picker_dialog_title">"Définir la date et l\'heure"</string>
+    <string name="low_memory_error">"Impossible de terminer l\'opération précédente. Mémoire insuffisante."</string>
+    <string name="media_player_error_button">"OK"</string>
+    <string name="media_player_error_text_invalid_progressive_playback">"Désolé, impossible de lire cette vidéo en streaming sur cet appareil."</string>
+    <string name="media_player_error_text_unknown">"Désolé, impossible de lire cette vidéo."</string>
+    <string name="media_player_error_title">"Impossible de lire la vidéo."</string>
+    <string name="media_player_loading_video">"Chargement vidéo…"</string>
+    <string name="month_picker_dialog_title">"Définir le mois"</string>
+    <string name="opening_file_error">"Échec de l\'ouverture du fichier."</string>
+    <string name="password_generation_popup_content_description">"Affichage de la fenêtre contextuelle de génération de mot de passe"</string>
+    <string name="profiler_error_toast">"Échec du démarrage du générateur de profils."</string>
+    <string name="profiler_no_storage_toast">"Impossible de démarrer le générateur de profils, car la mémoire de stockage externe n\'est pas disponible."</string>
+    <string name="profiler_started_toast">"Le générateur de profils a été lancé."</string>
+    <string name="profiler_stopped_toast">"Le générateur de profils a terminé sa tâche. Les résultats ont été exportés dans le fichier %1$s."</string>
+    <string name="time_picker_dialog_am">"a.m."</string>
+    <string name="time_picker_dialog_hour_minute_separator">":"</string>
+    <string name="time_picker_dialog_minute_second_separator">":"</string>
+    <string name="time_picker_dialog_pm">"p.m."</string>
+    <string name="time_picker_dialog_second_subsecond_separator">"."</string>
+    <string name="time_picker_dialog_title">"Définir l\'heure"</string>
+    <string name="updating_chrome">"Mise à jour de Chrome…"</string>
+    <string name="week_picker_dialog_title">"Définir la semaine"</string>
+</resources>

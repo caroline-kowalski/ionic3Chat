@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="accessibility_date_picker_month">"माह"</string>
+    <string name="accessibility_date_picker_week">"सप्ताह"</string>
+    <string name="accessibility_date_picker_year">"वर्ष"</string>
+    <string name="accessibility_datetime_picker_date">"दिनांक"</string>
+    <string name="accessibility_datetime_picker_time">"समय"</string>
+    <string name="accessibility_time_picker_ampm">"पूर्वाह्न/अपराह्न"</string>
+    <string name="accessibility_time_picker_hour">"घंटा"</string>
+    <string name="accessibility_time_picker_milli">"मिलीसेकंड"</string>
+    <string name="accessibility_time_picker_minute">"मिनट"</string>
+    <string name="accessibility_time_picker_second">"सेकंड"</string>
+    <string name="actionbar_share">"साझा करें"</string>
+    <string name="actionbar_textselection_title">"लेख चयन"</string>
+    <string name="actionbar_web_search">"वेब खोज"</string>
+    <string name="autofill_keyboard_accessory_content_description">"सुझाव उपलब्ध हैं"</string>
+    <string name="autofill_popup_content_description">"ऑटोमैटिक भरने वाला पॉपअप दिखाया जा रहा है"</string>
+    <string name="color_picker_button_black">"काला"</string>
+    <string name="color_picker_button_blue">"नीला"</string>
+    <string name="color_picker_button_cancel">"अभी नहीं"</string>
+    <string name="color_picker_button_cyan">"स्यान"</string>
+    <string name="color_picker_button_green">"हरा"</string>
+    <string name="color_picker_button_magenta">"मैजेंटा"</string>
+    <string name="color_picker_button_more">"अधिक"</string>
+    <string name="color_picker_button_red">"लाल"</string>
+    <string name="color_picker_button_set">"सेट करें"</string>
+    <string name="color_picker_button_white">"सफ़ेद"</string>
+    <string name="color_picker_button_yellow">"पीला"</string>
+    <string name="color_picker_dialog_title">"रंग चुनें"</string>
+    <string name="color_picker_hue">"रंग"</string>
+    <string name="color_picker_saturation">"संतृप्तता"</string>
+    <string name="color_picker_value">"मान"</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"सक्षम करें"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> तब तक कार्य नहीं करेगा जब तक आप Google Play सेवाओं को सक्षम नहीं करते."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Google Play सेवाएं सक्षम करना"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"इंस्टॉल करें"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> उन Google Play सेवाओं के बिना नहीं चलेगा जो आपके डिवाइस में उपलब्ध नहीं हैं."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Google Play सेवाएं प्राप्त करना"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Google Play सेवाएं त्रुटि"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> को Google Play सेवाओं के साथ समस्या आ रही है. कृपया फिर से प्रयास करें."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> उन Google Play सेवाओं के बिना नहीं चलेगा, जो आपके डिवाइस द्वारा समर्थित नहीं हैं."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"अपडेट करें"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> तब तक नहीं चलेगा जब तक आप Google Play सेवाओं को अपडेट नहीं करते."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Google Play सेवाओं को अपडेट करें"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> उन Google Play सेवाओं के बिना नहीं चलेगा जो वर्तमान में अपडेट हो रही हैं."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Google Play सेवाओं के नए वर्शन की आवश्यकता है. यह स्वयं को जल्दी ही अपडेट करेगा."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"फ़ोन पर खोलें"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"प्रवेश करें"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Google के साथ प्रवेश करें"</string>
+    <string name="copy_to_clipboard_failure_message">"क्लिपबोर्ड पर प्रतिलिपि बनाने में विफल रहा"</string>
+    <string name="date_picker_dialog_clear">"साफ़ करें"</string>
+    <string name="date_picker_dialog_other_button_label">"अन्य"</string>
+    <string name="date_picker_dialog_set">"सेट करें"</string>
+    <string name="date_picker_dialog_title">"दिनांक सेट करें"</string>
+    <string name="date_time_picker_dialog_title">"दिनांक और समय सेट करें"</string>
+    <string name="low_memory_error">"कम स्‍मृति के कारण पिछली कार्रवाई पूरी करने में असमर्थ"</string>
+    <string name="media_player_error_button">"ठीक"</string>
+    <string name="media_player_error_text_invalid_progressive_playback">"क्षमा करें, यह वीडियो इस डिवाइस पर स्‍ट्रीम करने के लिए मान्य नहीं है."</string>
+    <string name="media_player_error_text_unknown">"क्षमा करें, यह वीडियो नहीं चलाया जा सकता."</string>
+    <string name="media_player_error_title">"वीडियो नहीं चलाया जा सकता"</string>
+    <string name="media_player_loading_video">"वीडियो लोड हो रहा है"</string>
+    <string name="month_picker_dialog_title">"माह सेट करें"</string>
+    <string name="opening_file_error">"चयनित फ़ाइल खोलने में विफल"</string>
+    <string name="password_generation_popup_content_description">"पासवर्ड जेनरेशन पॉपअप दिखाया जा रहा है"</string>
+    <string name="profiler_error_toast">"प्रोफ़ाइलर प्रारंभ करने में विफल"</string>
+    <string name="profiler_no_storage_toast">"प्रोफ़ाइलर प्रारंभ नहीं हो सकता क्‍योंकि बाहरी मेमोरी तैयार नहीं है"</string>
+    <string name="profiler_started_toast">"प्रोफ़ाइलर प्रारंभ किया गया"</string>
+    <string name="profiler_stopped_toast">"प्रोफ़ाइलर पूर्ण. परिणाम %1$s में हैं."</string>
+    <string name="time_picker_dialog_am">"पूर्वाह्न"</string>
+    <string name="time_picker_dialog_hour_minute_separator">":"</string>
+    <string name="time_picker_dialog_minute_second_separator">":"</string>
+    <string name="time_picker_dialog_pm">"अपराह्न"</string>
+    <string name="time_picker_dialog_second_subsecond_separator">"."</string>
+    <string name="time_picker_dialog_title">"समय सेट करें"</string>
+    <string name="updating_chrome">"Chrome अपडेट किया जा रहा है..."</string>
+    <string name="week_picker_dialog_title">"सप्ताह सेट करें"</string>
+</resources>

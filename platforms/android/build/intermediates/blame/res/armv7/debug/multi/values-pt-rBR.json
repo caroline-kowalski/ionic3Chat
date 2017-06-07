@@ -1,0 +1,1413 @@
+[
+    {
+        "outputFile": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\incremental\\mergeArmv7DebugResources\\merged.dir\\values-pt-rBR\\values-pt-rBR.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 65,
+                    "endOffset": 166
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\23.53.589.4\\res\\values-pt-rBR\\android_ui_strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 0,
+                        "startOffset": 1288,
+                        "endColumn": 61,
+                        "endOffset": 1349
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 171,
+                    "endColumn": 67,
+                    "endOffset": 234
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\23.53.589.4\\res\\values-pt-rBR\\android_ui_strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 0,
+                        "startOffset": 1532,
+                        "endColumn": 63,
+                        "endOffset": 1595
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 239,
+                    "endColumn": 64,
+                    "endOffset": 299
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\23.53.589.4\\res\\values-pt-rBR\\android_ui_strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 0,
+                        "startOffset": 1350,
+                        "endColumn": 60,
+                        "endOffset": 1410
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 304,
+                    "endColumn": 69,
+                    "endOffset": 369
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\23.53.589.4\\res\\values-pt-rBR\\android_ui_strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 0,
+                        "startOffset": 2447,
+                        "endColumn": 65,
+                        "endOffset": 2512
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 374,
+                    "endColumn": 70,
+                    "endOffset": 440
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\23.53.589.4\\res\\values-pt-rBR\\android_ui_strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 0,
+                        "startOffset": 2513,
+                        "endColumn": 66,
+                        "endOffset": 2579
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 445,
+                    "endColumn": 66,
+                    "endOffset": 507
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\23.53.589.4\\res\\values-pt-rBR\\android_ui_strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 0,
+                        "startOffset": 2094,
+                        "endColumn": 62,
+                        "endOffset": 2156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 512,
+                    "endColumn": 65,
+                    "endOffset": 573
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\23.53.589.4\\res\\values-pt-rBR\\android_ui_strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 0,
+                        "startOffset": 1828,
+                        "endColumn": 61,
+                        "endOffset": 1889
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 578,
+                    "endColumn": 74,
+                    "endOffset": 648
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\23.53.589.4\\res\\values-pt-rBR\\android_ui_strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 0,
+                        "startOffset": 2023,
+                        "endColumn": 70,
+                        "endOffset": 2093
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 653,
+                    "endColumn": 69,
+                    "endOffset": 718
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\23.53.589.4\\res\\values-pt-rBR\\android_ui_strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 0,
+                        "startOffset": 1890,
+                        "endColumn": 65,
+                        "endOffset": 1955
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 723,
+                    "endColumn": 70,
+                    "endOffset": 789
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\23.53.589.4\\res\\values-pt-rBR\\android_ui_strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 0,
+                        "startOffset": 1956,
+                        "endColumn": 66,
+                        "endOffset": 2022
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 794,
+                    "endColumn": 58,
+                    "endOffset": 848
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\23.53.589.4\\res\\values-pt-rBR\\android_content_strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 0,
+                        "startOffset": 110,
+                        "endColumn": 54,
+                        "endOffset": 164
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 853,
+                    "endColumn": 76,
+                    "endOffset": 925
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\23.53.589.4\\res\\values-pt-rBR\\android_content_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 228,
+                        "endColumn": 72,
+                        "endOffset": 300
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 930,
+                    "endColumn": 66,
+                    "endOffset": 992
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\23.53.589.4\\res\\values-pt-rBR\\android_content_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 0,
+                        "startOffset": 165,
+                        "endColumn": 62,
+                        "endOffset": 227
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 997,
+                    "endColumn": 99,
+                    "endOffset": 1092
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\23.53.589.4\\res\\values-pt-rBR\\android_ui_strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 0,
+                        "startOffset": 2988,
+                        "endColumn": 95,
+                        "endOffset": 3083
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1097,
+                    "endColumn": 109,
+                    "endOffset": 1202
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\23.53.589.4\\res\\values-pt-rBR\\android_ui_strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 0,
+                        "startOffset": 2772,
+                        "endColumn": 105,
+                        "endOffset": 2877
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1207,
+                    "endColumn": 61,
+                    "endOffset": 1264
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\23.53.589.4\\res\\values-pt-rBR\\android_ui_strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 0,
+                        "startOffset": 1066,
+                        "endColumn": 57,
+                        "endOffset": 1123
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1269,
+                    "endColumn": 59,
+                    "endOffset": 1324
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\23.53.589.4\\res\\values-pt-rBR\\android_ui_strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 0,
+                        "startOffset": 829,
+                        "endColumn": 55,
+                        "endOffset": 884
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1329,
+                    "endColumn": 65,
+                    "endOffset": 1390
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\23.53.589.4\\res\\values-pt-rBR\\android_ui_strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 0,
+                        "startOffset": 584,
+                        "endColumn": 61,
+                        "endOffset": 645
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1395,
+                    "endColumn": 60,
+                    "endOffset": 1451
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\23.53.589.4\\res\\values-pt-rBR\\android_ui_strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 0,
+                        "startOffset": 772,
+                        "endColumn": 56,
+                        "endOffset": 828
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1456,
+                    "endColumn": 61,
+                    "endOffset": 1513
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\23.53.589.4\\res\\values-pt-rBR\\android_ui_strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 0,
+                        "startOffset": 885,
+                        "endColumn": 57,
+                        "endOffset": 942
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1518,
+                    "endColumn": 65,
+                    "endOffset": 1579
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\23.53.589.4\\res\\values-pt-rBR\\android_ui_strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 0,
+                        "startOffset": 943,
+                        "endColumn": 61,
+                        "endOffset": 1004
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1584,
+                    "endColumn": 59,
+                    "endOffset": 1639
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\23.53.589.4\\res\\values-pt-rBR\\android_ui_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 310,
+                        "endColumn": 55,
+                        "endOffset": 365
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1644,
+                    "endColumn": 62,
+                    "endOffset": 1702
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\23.53.589.4\\res\\values-pt-rBR\\android_ui_strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 0,
+                        "startOffset": 713,
+                        "endColumn": 58,
+                        "endOffset": 771
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1707,
+                    "endColumn": 61,
+                    "endOffset": 1764
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\23.53.589.4\\res\\values-pt-rBR\\android_ui_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 526,
+                        "endColumn": 57,
+                        "endOffset": 583
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1769,
+                    "endColumn": 62,
+                    "endOffset": 1827
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\23.53.589.4\\res\\values-pt-rBR\\android_ui_strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 0,
+                        "startOffset": 1124,
+                        "endColumn": 58,
+                        "endOffset": 1182
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1832,
+                    "endColumn": 64,
+                    "endOffset": 1892
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\23.53.589.4\\res\\values-pt-rBR\\android_ui_strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 0,
+                        "startOffset": 1005,
+                        "endColumn": 60,
+                        "endOffset": 1065
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1897,
+                    "endColumn": 70,
+                    "endOffset": 1963
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\23.53.589.4\\res\\values-pt-rBR\\android_ui_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 0,
+                        "startOffset": 646,
+                        "endColumn": 66,
+                        "endOffset": 712
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1968,
+                    "endColumn": 52,
+                    "endOffset": 2016
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\23.53.589.4\\res\\values-pt-rBR\\android_ui_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 366,
+                        "endColumn": 48,
+                        "endOffset": 414
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2021,
+                    "endColumn": 63,
+                    "endOffset": 2080
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\23.53.589.4\\res\\values-pt-rBR\\android_ui_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 415,
+                        "endColumn": 59,
+                        "endOffset": 474
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2085,
+                    "endColumn": 54,
+                    "endOffset": 2135
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\23.53.589.4\\res\\values-pt-rBR\\android_ui_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 475,
+                        "endColumn": 50,
+                        "endOffset": 525
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2140,
+                    "endColumn": 106,
+                    "endOffset": 2242
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\values-pt-rBR\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 287,
+                        "endColumn": 102,
+                        "endOffset": 389
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2247,
+                    "endColumn": 179,
+                    "endOffset": 2422
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\values-pt-rBR\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 390,
+                        "endColumn": 179,
+                        "endOffset": 569
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2427,
+                    "endColumn": 128,
+                    "endOffset": 2551
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\values-pt-rBR\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 570,
+                        "endColumn": 124,
+                        "endOffset": 694
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2556,
+                    "endColumn": 109,
+                    "endOffset": 2661
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\values-pt-rBR\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 695,
+                        "endColumn": 105,
+                        "endOffset": 800
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2666,
+                    "endColumn": 225,
+                    "endOffset": 2887
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\values-pt-rBR\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 801,
+                        "endColumn": 225,
+                        "endOffset": 1026
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2892,
+                    "endColumn": 131,
+                    "endOffset": 3019
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\values-pt-rBR\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 0,
+                        "startOffset": 1027,
+                        "endColumn": 127,
+                        "endOffset": 1154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 3024,
+                    "endColumn": 133,
+                    "endOffset": 3153
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\values-pt-rBR\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 0,
+                        "startOffset": 1155,
+                        "endColumn": 129,
+                        "endOffset": 1284
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 3158,
+                    "endColumn": 203,
+                    "endOffset": 3357
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\10.0.1\\res\\values-pt-rBR\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 289,
+                        "endColumn": 203,
+                        "endOffset": 492
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 3362,
+                    "endColumn": 228,
+                    "endOffset": 3586
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\values-pt-rBR\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 0,
+                        "startOffset": 1285,
+                        "endColumn": 228,
+                        "endOffset": 1513
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 3591,
+                    "endColumn": 109,
+                    "endOffset": 3696
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\values-pt-rBR\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 0,
+                        "startOffset": 1514,
+                        "endColumn": 105,
+                        "endOffset": 1619
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 3701,
+                    "endColumn": 194,
+                    "endOffset": 3891
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\values-pt-rBR\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 0,
+                        "startOffset": 1620,
+                        "endColumn": 194,
+                        "endOffset": 1814
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 3896,
+                    "endColumn": 131,
+                    "endOffset": 4023
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\values-pt-rBR\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 0,
+                        "startOffset": 1815,
+                        "endColumn": 127,
+                        "endOffset": 1942
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 4028,
+                    "endColumn": 215,
+                    "endOffset": 4239
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\values-pt-rBR\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 0,
+                        "startOffset": 1943,
+                        "endColumn": 215,
+                        "endOffset": 2158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 4244,
+                    "endColumn": 186,
+                    "endOffset": 4426
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\values-pt-rBR\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 0,
+                        "startOffset": 2159,
+                        "endColumn": 182,
+                        "endOffset": 2341
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 4431,
+                    "endColumn": 98,
+                    "endOffset": 4525
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\values-pt-rBR\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 0,
+                        "startOffset": 2342,
+                        "endColumn": 94,
+                        "endOffset": 2436
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 4530,
+                    "endColumn": 95,
+                    "endOffset": 4621
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\values-pt-rBR\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 0,
+                        "startOffset": 2437,
+                        "endColumn": 91,
+                        "endOffset": 2528
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 4626,
+                    "endColumn": 112,
+                    "endOffset": 4734
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\values-pt-rBR\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 0,
+                        "startOffset": 2529,
+                        "endColumn": 108,
+                        "endOffset": 2637
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 4739,
+                    "endColumn": 108,
+                    "endOffset": 4843
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\23.53.589.4\\res\\values-pt-rBR\\android_ui_strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 0,
+                        "startOffset": 1183,
+                        "endColumn": 104,
+                        "endOffset": 1287
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 4848,
+                    "endColumn": 61,
+                    "endOffset": 4905
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\23.53.589.4\\res\\values-pt-rBR\\android_ui_strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 0,
+                        "startOffset": 2714,
+                        "endColumn": 57,
+                        "endOffset": 2771
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 4910,
+                    "endColumn": 73,
+                    "endOffset": 4979
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\23.53.589.4\\res\\values-pt-rBR\\android_ui_strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 0,
+                        "startOffset": 2580,
+                        "endColumn": 69,
+                        "endOffset": 2649
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 4984,
+                    "endColumn": 60,
+                    "endOffset": 5040
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\23.53.589.4\\res\\values-pt-rBR\\android_ui_strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 0,
+                        "startOffset": 1411,
+                        "endColumn": 56,
+                        "endOffset": 1467
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 5045,
+                    "endColumn": 67,
+                    "endOffset": 5108
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\23.53.589.4\\res\\values-pt-rBR\\android_ui_strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 0,
+                        "startOffset": 2650,
+                        "endColumn": 63,
+                        "endOffset": 2713
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 5113,
+                    "endColumn": 79,
+                    "endOffset": 5188
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\23.53.589.4\\res\\values-pt-rBR\\android_ui_strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 0,
+                        "startOffset": 2371,
+                        "endColumn": 75,
+                        "endOffset": 2446
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 5193,
+                    "endColumn": 127,
+                    "endOffset": 5316
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\23.53.589.4\\res\\values-pt-rBR\\android_ui_strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 0,
+                        "startOffset": 110,
+                        "endColumn": 123,
+                        "endOffset": 233
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 5321,
+                    "endColumn": 58,
+                    "endOffset": 5375
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\23.53.589.4\\res\\values-pt-rBR\\android_content_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 630,
+                        "endColumn": 54,
+                        "endOffset": 684
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 5380,
+                    "endColumn": 153,
+                    "endOffset": 5529
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\23.53.589.4\\res\\values-pt-rBR\\android_content_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 384,
+                        "endColumn": 149,
+                        "endOffset": 533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 5534,
+                    "endColumn": 99,
+                    "endOffset": 5629
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\23.53.589.4\\res\\values-pt-rBR\\android_content_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 534,
+                        "endColumn": 95,
+                        "endOffset": 629
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 5634,
+                    "endColumn": 86,
+                    "endOffset": 5716
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\23.53.589.4\\res\\values-pt-rBR\\android_content_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 301,
+                        "endColumn": 82,
+                        "endOffset": 383
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 5721,
+                    "endColumn": 73,
+                    "endOffset": 5790
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\23.53.589.4\\res\\values-pt-rBR\\android_content_strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 0,
+                        "startOffset": 685,
+                        "endColumn": 69,
+                        "endOffset": 754
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 5795,
+                    "endColumn": 67,
+                    "endOffset": 5858
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\23.53.589.4\\res\\values-pt-rBR\\android_ui_strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 0,
+                        "startOffset": 1468,
+                        "endColumn": 63,
+                        "endOffset": 1531
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 5863,
+                    "endColumn": 79,
+                    "endOffset": 5938
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\23.53.589.4\\res\\values-pt-rBR\\android_ui_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 0,
+                        "startOffset": 234,
+                        "endColumn": 75,
+                        "endOffset": 309
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 5943,
+                    "endColumn": 113,
+                    "endOffset": 6052
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\23.53.589.4\\res\\values-pt-rBR\\android_ui_strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 0,
+                        "startOffset": 2878,
+                        "endColumn": 109,
+                        "endOffset": 2987
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 6057,
+                    "endColumn": 78,
+                    "endOffset": 6131
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\23.53.589.4\\res\\values-pt-rBR\\android_content_strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 0,
+                        "startOffset": 1053,
+                        "endColumn": 74,
+                        "endOffset": 1127
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 6136,
+                    "endColumn": 136,
+                    "endOffset": 6268
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\23.53.589.4\\res\\values-pt-rBR\\android_content_strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 0,
+                        "startOffset": 920,
+                        "endColumn": 132,
+                        "endOffset": 1052
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 6273,
+                    "endColumn": 70,
+                    "endOffset": 6339
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\23.53.589.4\\res\\values-pt-rBR\\android_content_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 0,
+                        "startOffset": 755,
+                        "endColumn": 66,
+                        "endOffset": 821
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 6344,
+                    "endColumn": 101,
+                    "endOffset": 6441
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\23.53.589.4\\res\\values-pt-rBR\\android_content_strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 0,
+                        "startOffset": 822,
+                        "endColumn": 97,
+                        "endOffset": 919
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 6446,
+                    "endColumn": 54,
+                    "endOffset": 6496
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\23.53.589.4\\res\\values-pt-rBR\\android_ui_strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 0,
+                        "startOffset": 1662,
+                        "endColumn": 50,
+                        "endOffset": 1712
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 6501,
+                    "endColumn": 72,
+                    "endOffset": 6569
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\23.53.589.4\\res\\values-pt-rBR\\android_ui_strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 0,
+                        "startOffset": 2157,
+                        "endColumn": 68,
+                        "endOffset": 2225
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 6574,
+                    "endColumn": 74,
+                    "endOffset": 6644
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\23.53.589.4\\res\\values-pt-rBR\\android_ui_strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 0,
+                        "startOffset": 2226,
+                        "endColumn": 70,
+                        "endOffset": 2296
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 6649,
+                    "endColumn": 54,
+                    "endOffset": 6699
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\23.53.589.4\\res\\values-pt-rBR\\android_ui_strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 0,
+                        "startOffset": 1713,
+                        "endColumn": 50,
+                        "endOffset": 1763
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 6704,
+                    "endColumn": 77,
+                    "endOffset": 6777
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\23.53.589.4\\res\\values-pt-rBR\\android_ui_strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 0,
+                        "startOffset": 2297,
+                        "endColumn": 73,
+                        "endOffset": 2370
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 6782,
+                    "endColumn": 67,
+                    "endOffset": 6845
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\23.53.589.4\\res\\values-pt-rBR\\android_ui_strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 0,
+                        "startOffset": 1764,
+                        "endColumn": 63,
+                        "endOffset": 1827
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 6850,
+                    "endColumn": 67,
+                    "endOffset": 6913
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\23.53.589.4\\res\\values-pt-rBR\\android_ui_strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 0,
+                        "startOffset": 3084,
+                        "endColumn": 63,
+                        "endOffset": 3147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 6918,
+                    "endColumn": 69,
+                    "endOffset": 6983
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\platforms\\android\\build\\intermediates\\exploded-aar\\org.xwalk\\xwalk_core_library\\23.53.589.4\\res\\values-pt-rBR\\android_ui_strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 0,
+                        "startOffset": 1596,
+                        "endColumn": 65,
+                        "endOffset": 1661
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,43 @@
+page-new-group {
+
+  .members {
+    text-align: center;
+
+    img {
+      border-radius: 100%;
+      width: 3.25em;
+      height: 3.25em;
+      margin: 0.5em;
+    }
+  }
+
+  .empty {
+    text-align: center;
+    padding-bottom: 2em;
+
+    h1,
+    p {
+      color: $gray;
+    }
+
+    h1 {
+      font-size: 3em;
+    }
+
+    p {
+      font-size: 1.125em;
+      width: 70vw;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    button {
+      background: $dark;
+    }
+
+    button.activated,
+    button:active {
+      background: $dark-active;
+    }
+  }
+}

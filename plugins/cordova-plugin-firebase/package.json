@@ -1,0 +1,98 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "cordova-plugin-firebase@0.1.20",
+        "scope": null,
+        "escapedName": "cordova-plugin-firebase",
+        "name": "cordova-plugin-firebase",
+        "rawSpec": "0.1.20",
+        "spec": "0.1.20",
+        "type": "version"
+      },
+      "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\node_modules"
+    ]
+  ],
+  "_from": "cordova-plugin-firebase@0.1.20",
+  "_id": "cordova-plugin-firebase@0.1.20",
+  "_inCache": true,
+  "_location": "/cordova-plugin-firebase",
+  "_nodeVersion": "6.9.2",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/cordova-plugin-firebase-0.1.20.tgz_1491228289132_0.7139896552544087"
+  },
+  "_npmUser": {
+    "name": "arnesson",
+    "email": "hello@arnesson.io"
+  },
+  "_npmVersion": "3.10.9",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "cordova-plugin-firebase@0.1.20",
+    "scope": null,
+    "escapedName": "cordova-plugin-firebase",
+    "name": "cordova-plugin-firebase",
+    "rawSpec": "0.1.20",
+    "spec": "0.1.20",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-firebase/-/cordova-plugin-firebase-0.1.20.tgz",
+  "_shasum": "bf7c59da37a3ecdbc87267fd8068c421c596ce44",
+  "_shrinkwrap": null,
+  "_spec": "cordova-plugin-firebase@0.1.20",
+  "_where": "C:\\Users\\acer\\Desktop\\Achat_ionic\\ionic3Chat\\node_modules",
+  "author": {
+    "name": "Robert Arnesson"
+  },
+  "bugs": {
+    "url": "https://github.com/arnesson/cordova-plugin-firebase/issues"
+  },
+  "cordova": {
+    "id": "cordova-plugin-firebase",
+    "platforms": [
+      "android",
+      "ios",
+      "browser"
+    ]
+  },
+  "dependencies": {},
+  "description": "Cordova plugin for Google Firebase",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "bf7c59da37a3ecdbc87267fd8068c421c596ce44",
+    "tarball": "https://registry.npmjs.org/cordova-plugin-firebase/-/cordova-plugin-firebase-0.1.20.tgz"
+  },
+  "gitHead": "f90101d891c51e7347d11adc2de5b67da601111e",
+  "homepage": "https://github.com/arnesson/cordova-plugin-firebase#readme",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cordova-browser",
+    "firebase",
+    "push",
+    "notifications"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "arnesson",
+      "email": "hello@arnesson.io"
+    }
+  ],
+  "name": "cordova-plugin-firebase",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arnesson/cordova-plugin-firebase.git"
+  },
+  "scripts": {},
+  "version": "0.1.20"
+}

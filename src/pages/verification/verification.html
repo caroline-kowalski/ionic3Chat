@@ -1,0 +1,21 @@
+<ion-content>
+  <div *ngIf="user" class="page">
+    <h4 class="title">Verify your account</h4>
+    <p>Please verify <span>{{user.email}}</span> to continue</p>
+    <!-- Verification Menu -->
+    <ion-row style="text-align: center;">
+      <ion-col>
+        <ion-icon name="refresh" tappable (click)="sendEmailVerification()"></ion-icon>
+        <p>Resend</p>
+      </ion-col>
+      <ion-col>
+        <ion-icon name="mail" tappable (click)="setEmail()"></ion-icon>
+        <p>Update Email</p>
+      </ion-col>
+      <ion-col>
+        <ion-icon name="log-out" tappable (click)="logout()"></ion-icon>
+        <p>Logout</p>
+      </ion-col>
+    </ion-row>
+  </div>
+</ion-content>

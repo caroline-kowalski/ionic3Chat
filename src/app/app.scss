@@ -1,0 +1,241 @@
+// http://ionicframework.com/docs/v2/theming/
+// App Global Sass
+// --------------------------------------------------
+// Put style rules here that you want to apply globally. These
+// styles are for the entire app and not just one component.
+// Additionally, this file can be also used as an entry point
+// to import other Sass files to be included in the output CSS.
+//
+// Shared Sass variables, which can be used to adjust Ionic's
+// default Sass variables, belong in "theme/variables.scss".
+//
+// To declare rules for a specific mode, create a child rule
+// for the .md, .ios, or .wp mode classes. The mode class is
+// automatically applied to the <body> element in the app.
+
+
+//Add class="no-scroll" on <ion-content> to disable scrolling
+.no-scroll .scroll-content {
+  overflow: hidden;
+}
+
+//Center Class to align content to center.
+.center {
+  text-align: center;
+}
+
+.header-ios .toolbar-background-ios, .footer-ios .toolbar-background-ios{
+  border-style: none;
+}
+
+//Empty List
+.empty-list {
+  position: absolute;
+  top: 20%;
+  width: 100%;
+  text-align: center;
+
+  h1,
+  p {
+    color: $gray;
+  }
+
+  h1 {
+    font-size: 3em;
+  }
+
+  p {
+    font-size: 1.125em;
+    width: 70vw;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  button {
+    background: $dark;
+  }
+
+  button.activated,
+  button:active {
+    background: $dark-active;
+  }
+}
+
+//Avatar List
+ion-list.avatar-list {
+
+  ion-item.selected,
+  ion-item:active {
+    opacity: 0.5;
+  }
+
+  ion-fab button,
+  ion-fab button.activated {
+    background: transparent !important;
+  }
+
+  ion-fab button.activated ion-icon {
+    opacity: 0.5 !important;
+  }
+
+  ion-fab button ion-icon {
+    font-size: 2em !important;
+    color: $primary;
+  }
+
+  ion-icon.success {
+    color: $primary;
+  }
+
+  ion-icon.danger {
+    color: color($colors, danger);
+  }
+}
+
+//Messages Content for message.html and group.html
+div.messages {
+  p.center {
+    margin-top: 1.25em;
+    margin-bottom: 0.5em;
+
+    span {
+      padding: 0.25em 0.5em;
+      background: $secondary;
+      color: #fff;
+      border-radius: 0.4em;
+    }
+  }
+
+  p.center.activated,
+  p.center:active {
+    span {
+      background: $secondary-active;
+    }
+  }
+
+  .system {
+    text-align: center;
+    font-size: 90%;
+
+    p {
+      background: transparent !important;
+      max-width: 90vw;
+      color: $primary;
+    }
+
+    span {
+      margin-top: -0.6em;
+      text-align: center !important;
+    }
+  }
+
+  ion-col {
+    padding-top: 1em;
+
+    img {
+      border-radius: 100%;
+      width: 2.5em;
+      height: 2.5em;
+      object-fit: cover;
+    }
+
+    img.active,
+    img:active {
+      opacity: 0.5;
+    }
+
+    p {
+      max-width: 67vw;
+      margin-top: 0;
+      color: #fff;
+      padding: 0.5em;
+      border-radius: 0.5em;
+      margin-bottom: 0.5em;
+      display: inline-block;
+    }
+
+    span {
+      display: block;
+      text-align: left;
+      color: $gray;
+      font-size: 85%;
+      padding-left: 0.5em;
+    }
+  }
+
+  ion-col.sender {
+    p {
+      background: $primary;
+    }
+
+    span {
+      text-align: right;
+      padding-left: 0.5em;
+    }
+  }
+
+  div.right {
+    p {
+      background: $chat-right-bg;
+      color: $chat-right-color;
+      display: inline-block !important;
+      float: right;
+    }
+
+    span {
+      float: right;
+      clear: right !important;
+      display: inline-block;
+    }
+  }
+
+  div.left {
+    color: $chat-left-color;
+    float: left;
+    text-align: left;
+  }
+
+  div.left,
+  div.right {
+    img {
+      width: 100%;
+      height: auto;
+      object-fit: cover;
+      border-radius: 0.75em;
+    }
+  }
+}
+
+//Footer Bar for message.html and group.html
+ion-footer.footer {
+  background-position: initial initial;
+  background-repeat: initial initial;
+}
+
+.bottom_bar {
+  padding-top: 0.25em;
+  // padding-bottom: 0.25em;
+  border-top: 1px solid #e1e1e1;
+
+  ion-textarea {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 12px;
+    border-radius: 0.75em;
+  }
+
+  ion-fab button,
+  ion-fab button.activated {
+    background: transparent !important;
+  }
+
+  ion-fab button.activated ion-icon {
+    opacity: 0.5 !important;
+  }
+
+  button ion-icon {
+    font-size: 2em !important;
+    color: $primary;
+  }
+}

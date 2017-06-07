@@ -1,0 +1,6 @@
+<ion-tabs selectedIndex="0">
+  <ion-tab [root]="messages" tabIcon="ios-chatbubbles-outline" tabBadgeStyle="danger" tabBadge="{{getUnreadMessagesCount()}}"></ion-tab>
+  <ion-tab [root]="groups" tabIcon="ios-contacts-outline" tabBadgeStyle="danger" tabBadge="{{getUnreadGroupMessagesCount()}}"></ion-tab>
+  <ion-tab [root]="friends" tabIcon="ios-contacts-outline" tabBadgeStyle="danger" tabBadge="{{friendRequestCount}}"></ion-tab>
+  <ion-tab [root]="profile" tabIcon="ios-contact-outline"></ion-tab>
+</ion-tabs>

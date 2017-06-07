@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="accessibility_date_picker_month">"Tháng"</string>
+    <string name="accessibility_date_picker_week">"Tuần"</string>
+    <string name="accessibility_date_picker_year">"Năm"</string>
+    <string name="accessibility_datetime_picker_date">"Ngày Tháng"</string>
+    <string name="accessibility_datetime_picker_time">"Thời gian"</string>
+    <string name="accessibility_time_picker_ampm">"SA/CH"</string>
+    <string name="accessibility_time_picker_hour">"Giờ"</string>
+    <string name="accessibility_time_picker_milli">"Mili giây"</string>
+    <string name="accessibility_time_picker_minute">"Phút"</string>
+    <string name="accessibility_time_picker_second">"Giây"</string>
+    <string name="actionbar_share">"Chia sẻ"</string>
+    <string name="actionbar_textselection_title">"Lựa chọn văn bản"</string>
+    <string name="actionbar_web_search">"Tìm kiếm trên web"</string>
+    <string name="autofill_keyboard_accessory_content_description">"Có đề xuất"</string>
+    <string name="autofill_popup_content_description">"Hiển thị cửa sổ bật lên tự động điền"</string>
+    <string name="color_picker_button_black">"Đen"</string>
+    <string name="color_picker_button_blue">"Xanh lam"</string>
+    <string name="color_picker_button_cancel">"Hủy"</string>
+    <string name="color_picker_button_cyan">"Lục lam"</string>
+    <string name="color_picker_button_green">"Xanh lục"</string>
+    <string name="color_picker_button_magenta">"Đỏ thẫm"</string>
+    <string name="color_picker_button_more">"Thêm"</string>
+    <string name="color_picker_button_red">"Đỏ"</string>
+    <string name="color_picker_button_set">"Đặt"</string>
+    <string name="color_picker_button_white">"Trắng"</string>
+    <string name="color_picker_button_yellow">"Vàng"</string>
+    <string name="color_picker_dialog_title">"Chọn màu"</string>
+    <string name="color_picker_hue">"Màu sắc"</string>
+    <string name="color_picker_saturation">"Độ bão hòa"</string>
+    <string name="color_picker_value">"Giá trị"</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Bật"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> sẽ không hoạt động nếu bạn không bật dịch vụ của Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Bật dịch vụ của Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Cài đặt"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> sẽ không chạy nếu không có dịch vụ của Google Play. Thiết bị của bạn bị thiếu dịch vụ này."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Cài đặt dịch vụ của Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Lỗi dịch vụ của Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> đang gặp sự cố với các dịch vụ của Google Play. Hãy thử lại."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> sẽ không chạy nếu không có các dịch vụ của Google Play. Thiết bị của bạn không hỗ trợ các dịch vụ này."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Cập nhật"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> sẽ không chạy trừ khi bạn cập nhật Dịch vụ của Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Cập nhật dịch vụ của Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> sẽ không chạy nếu không có dịch vụ của Google Play. Dịch vụ này hiện đang cập nhật."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Cần phiên bản mới của dịch vụ Google Play. Dịch vụ sẽ sớm tự động cập nhật."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Mở trên điện thoại"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Đăng nhập"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Đăng nhập bằng Google"</string>
+    <string name="copy_to_clipboard_failure_message">"Sao chép sang khay nhớ tạm không thành công"</string>
+    <string name="date_picker_dialog_clear">"Xóa"</string>
+    <string name="date_picker_dialog_other_button_label">"Khác"</string>
+    <string name="date_picker_dialog_set">"Đặt"</string>
+    <string name="date_picker_dialog_title">"Đặt ngày"</string>
+    <string name="date_time_picker_dialog_title">"Đặt ngày giờ"</string>
+    <string name="low_memory_error">"Không thể hoàn tất thao tác trước do bộ nhớ thấp"</string>
+    <string name="media_player_error_button">"OK"</string>
+    <string name="media_player_error_text_invalid_progressive_playback">"Rất tiếc, video này không hợp lệ để phát trực tuyến sang thiết bị này."</string>
+    <string name="media_player_error_text_unknown">"Rất tiếc, không thể phát video này."</string>
+    <string name="media_player_error_title">"Không thể phát video"</string>
+    <string name="media_player_loading_video">"Đang tải video"</string>
+    <string name="month_picker_dialog_title">"Đặt tháng"</string>
+    <string name="opening_file_error">"Không mở được tệp đã chọn"</string>
+    <string name="password_generation_popup_content_description">"Hiển thị cửa sổ bật lên tạo mật khẩu"</string>
+    <string name="profiler_error_toast">"Không khởi động được profiler"</string>
+    <string name="profiler_no_storage_toast">"Không thể khởi động profiler vì bộ nhớ ngoài không sẵn sàng"</string>
+    <string name="profiler_started_toast">"Đã chạy Profiler"</string>
+    <string name="profiler_stopped_toast">"Đã hoàn tất Profiler. Kết quả có trong %1$s."</string>
+    <string name="time_picker_dialog_am">"SA"</string>
+    <string name="time_picker_dialog_hour_minute_separator">":"</string>
+    <string name="time_picker_dialog_minute_second_separator">":"</string>
+    <string name="time_picker_dialog_pm">"CH"</string>
+    <string name="time_picker_dialog_second_subsecond_separator">"."</string>
+    <string name="time_picker_dialog_title">"Đặt thời gian"</string>
+    <string name="updating_chrome">"Đang cập nhật Chrome..."</string>
+    <string name="week_picker_dialog_title">"Đặt tuần"</string>
+</resources>

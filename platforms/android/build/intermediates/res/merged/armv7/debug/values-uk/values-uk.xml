@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="accessibility_date_picker_month">"Місяць"</string>
+    <string name="accessibility_date_picker_week">"Тиждень"</string>
+    <string name="accessibility_date_picker_year">"Рік"</string>
+    <string name="accessibility_datetime_picker_date">"Дата"</string>
+    <string name="accessibility_datetime_picker_time">"Час"</string>
+    <string name="accessibility_time_picker_ampm">"д.п./п.п."</string>
+    <string name="accessibility_time_picker_hour">"Години"</string>
+    <string name="accessibility_time_picker_milli">"Мілісекунди"</string>
+    <string name="accessibility_time_picker_minute">"Хвилини"</string>
+    <string name="accessibility_time_picker_second">"Секунди"</string>
+    <string name="actionbar_share">"Надіслати"</string>
+    <string name="actionbar_textselection_title">"Виділення тексту"</string>
+    <string name="actionbar_web_search">"Веб-пошук"</string>
+    <string name="autofill_keyboard_accessory_content_description">"Є пропозиції"</string>
+    <string name="autofill_popup_content_description">"Показ спливаючих вікон автозаповнення"</string>
+    <string name="color_picker_button_black">"Чорний"</string>
+    <string name="color_picker_button_blue">"Синій"</string>
+    <string name="color_picker_button_cancel">"Скасувати"</string>
+    <string name="color_picker_button_cyan">"Бірюзовий"</string>
+    <string name="color_picker_button_green">"Зелений"</string>
+    <string name="color_picker_button_magenta">"Пурпурний"</string>
+    <string name="color_picker_button_more">"Більше"</string>
+    <string name="color_picker_button_red">"Червоний"</string>
+    <string name="color_picker_button_set">"Встановити"</string>
+    <string name="color_picker_button_white">"Білий"</string>
+    <string name="color_picker_button_yellow">"Жовтий"</string>
+    <string name="color_picker_dialog_title">"Вибрати колір"</string>
+    <string name="color_picker_hue">"Тон"</string>
+    <string name="color_picker_saturation">"Насиченість"</string>
+    <string name="color_picker_value">"Яскравість"</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Увімкнути"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"Додаток <ns1:g id="APP_NAME">%1$s</ns1:g> не працюватиме, якщо не ввімкнути сервіси Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Увімкнути сервіси Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Установити"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"Додаток <ns1:g id="APP_NAME">%1$s</ns1:g> не працюватиме без сервісів Google Play, яких немає на вашому пристрої."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Установити сервіси Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Помилка сервісів Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"У додатку <ns1:g id="APP_NAME">%1$s</ns1:g> виникла проблема із сервісами Google Play. Повторіть спробу."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"Додаток <ns1:g id="APP_NAME">%1$s</ns1:g> не працюватиме без сервісів Google Play, які не підтримуються на вашому пристрої."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Оновити"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"Додаток <ns1:g id="APP_NAME">%1$s</ns1:g> не працюватиме, якщо не оновити сервіси Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Оновіть сервіси Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"Додаток <ns1:g id="APP_NAME">%1$s</ns1:g> не працюватиме без сервісів Google Play, які зараз оновлюються."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Потрібна нова версія сервісів Google Play. Вони невдовзі оновляться."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Відкрити на телефоні"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Увійти"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Увійти в облік. запис Google"</string>
+    <string name="copy_to_clipboard_failure_message">"Не вдалося скопіювати в буфер обміну"</string>
+    <string name="date_picker_dialog_clear">"Очистити"</string>
+    <string name="date_picker_dialog_other_button_label">"Інше"</string>
+    <string name="date_picker_dialog_set">"Встановити"</string>
+    <string name="date_picker_dialog_title">"Вибрати дату"</string>
+    <string name="date_time_picker_dialog_title">"Вибрати дату й час"</string>
+    <string name="low_memory_error">"Не вдається закінчити попередню операцію через нестачу пам’яті"</string>
+    <string name="media_player_error_button">"ОК"</string>
+    <string name="media_player_error_text_invalid_progressive_playback">"На жаль, це відео неможливо транслювати на цьому пристрої."</string>
+    <string name="media_player_error_text_unknown">"На жаль, це відео неможливо відтворити."</string>
+    <string name="media_player_error_title">"Не вдається відтворити відео"</string>
+    <string name="media_player_loading_video">"Завантаж. відео"</string>
+    <string name="month_picker_dialog_title">"Вибрати місяць"</string>
+    <string name="opening_file_error">"Не вдалося відкрити файл"</string>
+    <string name="password_generation_popup_content_description">"Показ спливаючих вікон для створення пароля"</string>
+    <string name="profiler_error_toast">"Помилка запуску профілювальника"</string>
+    <string name="profiler_no_storage_toast">"Неможливо запустити профілювальник, оскільки зовнішня пам’ять не готова"</string>
+    <string name="profiler_started_toast">"Профілювальник запущено"</string>
+    <string name="profiler_stopped_toast">"Профілювальник закінчив роботу. Результати у файлі %1$s."</string>
+    <string name="time_picker_dialog_am">"дп"</string>
+    <string name="time_picker_dialog_hour_minute_separator">":"</string>
+    <string name="time_picker_dialog_minute_second_separator">":"</string>
+    <string name="time_picker_dialog_pm">"пп"</string>
+    <string name="time_picker_dialog_second_subsecond_separator">"."</string>
+    <string name="time_picker_dialog_title">"Вибрати час"</string>
+    <string name="updating_chrome">"Оновлення Chrome…"</string>
+    <string name="week_picker_dialog_title">"Вибрати тиждень"</string>
+</resources>
